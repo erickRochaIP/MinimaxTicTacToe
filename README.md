@@ -6,7 +6,7 @@ Jogue o famoso jogo da velha com uma inteligência artificial que usa o algoritm
 
 ## Como usar
 
-### pip install -r requeriments.txt
+### pip install -r requirements.txt
 e
 ### python runner.py
 
